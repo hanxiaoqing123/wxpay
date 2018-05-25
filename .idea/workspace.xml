@@ -11,31 +11,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="WxPay.Api.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="WxPay.Api.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/WxPay.Api.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-16005">
+            <state relative-caret-position="456">
+              <caret line="537" column="24" lean-forward="true" selection-start-line="537" selection-start-column="24" selection-end-line="537" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WxPay.JsApiPay.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/example/WxPay.JsApiPay.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2697">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WxPay.Notify.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/WxPay.Notify.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="499">
-              <caret line="77" column="30" lean-forward="false" selection-start-line="77" selection-start-column="30" selection-end-line="77" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="WxPay.Data.php" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/WxPay.Data.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="298">
-              <caret line="237" column="20" lean-forward="false" selection-start-line="237" selection-start-column="20" selection-end-line="237" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -100,6 +90,11 @@
             <path>
               <item name="wxpay" type="b2602c69:ProjectViewProjectNode" />
               <item name="wxpay" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="example" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="wxpay" type="b2602c69:ProjectViewProjectNode" />
+              <item name="wxpay" type="2a2b976b:PhpTreeStructureProvider$1" />
               <item name="lib" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
@@ -140,12 +135,12 @@
       <option name="presentableId" value="Default" />
       <updated>1527172432525</updated>
       <workItem from="1527172433850" duration="721000" />
-      <workItem from="1527215594149" duration="633000" />
+      <workItem from="1527215594149" duration="1412000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1354000" />
+    <option name="totallyTimeSpent" value="2133000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -222,14 +217,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/WxPay.Api.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16005">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/WxPay.Data.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
@@ -242,6 +229,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="499">
           <caret line="77" column="30" lean-forward="false" selection-start-line="77" selection-start-column="30" selection-end-line="77" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/stubs/curl/curl_d.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="281">
+          <caret line="143" column="9" lean-forward="false" selection-start-line="143" selection-start-column="9" selection-end-line="143" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/example/WxPay.JsApiPay.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2697">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/WxPay.Api.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="537" column="24" lean-forward="true" selection-start-line="537" selection-start-column="24" selection-end-line="537" selection-end-column="46" />
           <folding />
         </state>
       </provider>
