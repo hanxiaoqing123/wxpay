@@ -30,7 +30,7 @@ $input->SetTotal_fee("1");  //单位:分
 $input->SetTime_start(date("YmdHis"));
 $input->SetTime_expire(date("YmdHis", time() + 600));
 $input->SetGoods_tag("test");
-$input->SetNotify_url("http://hxq.happyd.club/wxpay/example/notify.php");
+$input->SetNotify_url("https://hxq.happyd.club/wxpay/example/notify.php");
 $input->SetTrade_type("JSAPI");
 $input->SetOpenid($openId);
 $order = WxPayApi::unifiedOrder($input);
